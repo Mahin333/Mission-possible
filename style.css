@@ -1,0 +1,69 @@
+body{
+    
+    font-family: 'Raleway', sans-serif;
+font-size: 17px;
+}
+    
+h1{
+    font-size: 50px; font-weight: 600;
+}
+.flexible-continer{
+    display: flex;
+    padding-bottom: 100px;
+    
+}
+.half-width{
+     padding-left: 7%;
+    width: 40%;
+    margin: 50p;
+    
+}
+.half-width img{
+    width: 90%; 
+}
+
+#heading-color{
+    color:salmon
+}
+.button-section{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, rgb(192, 90, 72) );
+    color: ivory;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.experiance-are{
+    border: lime solid;
+    display: flex;
+}
+.full-devo{
+   width: 40%;
+   padding: 70px;
+   box-shadow: 10px 10px 40px gray;
+   margin: 60px;
+   border-left:10px solid;
+}
+#experiance-decoretion{
+    text-align:left;
+    font-size: 60px;
+    font-weight: 900;
+    padding-left: 70px;
+}
+
+#first-border-gradiant{
+    border-image: linear-gradient(#1afad5, #ff6a14) 30;
+}
+#second-border-gradiant{
+    border-image: linear-gradient(#1afad5, #e00cfb) 30;
+}
+
+.bottom-heading{
+    color: salmon;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+    color: black;
+}
+
